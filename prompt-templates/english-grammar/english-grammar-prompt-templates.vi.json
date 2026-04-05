@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Mẫu prompt học ngữ pháp tiếng anh",
+  "description": "Mẫu prompt cho việc học và luyện tập ngữ pháp tiếng Anh dành cho người Việt",
+  "author": "PromptRecall Team",
+  "locale": "vi",
+  "promptTemplates": [
+    {
+      "category": "Giải thích",
+      "templateString": "Giải thích điểm ngữ pháp tiếng anh '{{ item }}' đơn giản phù hợp với trình độ {{ cefr_level }}. Cho ví dụ minh họa."
+    },
+    {
+      "category": "Cách dùng",
+      "templateString": "Hãy giải thích khi nào và cách dùng '{{ item }}' phù hợp với người học cấp độ {{ cefr_level }}."
+    },
+    {
+      "category": "Lỗi sai thường gặp",
+      "templateString": "Phân tích cấu trúc ngữ pháp '{{ item }}' và nêu các lỗi phổ biến mà người học thường mắc phải"
+    },
+    {
+      "category": "So sánh",
+      "templateString": "So sánh điểm ngữ pháp '{{ item }}' với các cấu trúc tương tự khác để làm rõ sự khác biệt."
+    },
+    {
+      "category": "Ví dụ",
+      "templateString": "Gợi ý 3 ví dụ đa dạng về cách dùng '{{ item }}' trong giao tiếp hàng ngày ở trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Tình huống thực tế",
+      "templateString": "Đưa ra các tình huống thực tế để luyện tập '{{ item }}' dành cho người học cấp độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập thực hành",
+      "templateString": "Tạo các bài tập thực hành ngữ pháp '{{ item }}' phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập trắc nghiệm",
+      "templateString": "Tạo 5 bài tập trắc nghiệm liên quan đến '{{ item }}' ở trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập điền vào chỗ trống",
+      "templateString": "Tạo 5 bài tập điền vào chỗ trống liên quan đến '{{ item }}' ở trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập ghép đôi",
+      "templateString": "Tạo 5 bài tập ghép đôi liên quan đến '{{ item }}' ở trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập đúng/sai",
+      "templateString": "Tạo 5 bài tập đúng/sai liên quan đến '{{ item }}' ở trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập sắp xếp từ",
+      "templateString": "Tạo 5 bài tập sắp xếp từ liên quan đến '{{ item }}' ở trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập biến đổi câu",
+      "templateString": "Tạo 5 bài tập biến đổi câu về '{{ item }}' phù hợp với người học tiếng anh trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập sửa lỗi",
+      "templateString": "Hãy giúp tôi luyện tập cấu trúc ngữ pháp '{{ item }}' bằng cách sửa lỗi ngữ pháp của câu đã cho. Bạn đưa ra một câu sai, tôi sẽ chỉ ra lỗi và cách sửa tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy góp ý cho tôi (nếu tôi sai) cho đến khi hoàn thiện. Câu được cho phù hợp với người học tiếng Anh trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập luyện đặt câu",
+      "templateString": "Hãy giúp tôi luyện tập cấu trúc ngữ pháp {{ item }} bằng cách luyện đặt câu. Bạn đưa ra một câu tiếng việt, tôi sẽ đưa ra câu tiếng anh tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy sửa lỗi cho tôi cho đến khi hoàn thiện. Câu được cho phải phù hợp với người có trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập luyện dịch",
+      "templateString": "Hãy giúp tôi luyện tập cấu trúc ngữ pháp {{ item }} bằng cách luyện dịch câu. Bạn đưa ra một câu tiếng anh, tôi sẽ đưa ra câu tiếng việt tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy sửa lỗi cho tôi cho đến khi hoàn thiện. Câu được cho phải phù hợp với người có trình độ {{ cefr_level }}."
+    }
+  ]
+}

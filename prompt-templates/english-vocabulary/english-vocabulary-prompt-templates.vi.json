@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Mẫu prompt học từ vựng tiếng Anh",
+  "description": "Mẫu prompt cho việc học và luyện tập từ vựng tiếng Anh dành cho người Việt",
+  "author": "PromptRecall Team",
+  "locale": "vi",
+  "promptTemplates": [
+    {
+      "category": "Ngữ nghĩa",
+      "templateString": "Giải thích nghĩa, từ loại của từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}. Cho các ví dụ minh họa."
+    },
+    {
+      "category": "Phát âm",
+      "templateString": "Hướng dẫn cách phát âm \"{{ item }}\" bằng ký hiệu phiên âm quốc tế (IPA) và mô tả cách đặt lưỡi, môi, trọng âm cho người Việt. Chỉ ra những lỗi, khó khăn phổ biến (nếu có) mà người Việt Nam thường gặp khi phát âm từ này."
+    },
+    {
+      "category": "So sánh phát âm",
+      "templateString": "So sánh cách phát âm của \"{{ item }}\" theo giọng Mỹ và Anh, và cho biết sự khác nhau chính."
+    },
+    {
+      "category": "Câu sáng tạo",
+      "templateString": "Tạo 3 câu sáng tạo sử dụng \"{{ item }}\" trong các ngữ cảnh khác nhau (công việc, gia đình, học tập)."
+    },
+    {
+      "category": "Câu ví dụ",
+      "templateString": "Viết câu ví dụ cho từ \"{{ item }}\" ở 3 dạng khác nhau: câu khẳng định, phủ định và nghi vấn."
+    },
+    {
+      "category": "Từ đồng nghĩa",
+      "templateString": "Liệt kê các từ đồng nghĩa của \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}. Hãy so sánh sự khác biệt và nêu rõ khi nào nên dùng từ nào."
+    },
+    {
+      "category": "Từ trái nghĩa",
+      "templateString": "Tìm các từ trái nghĩa với \"{{ item }}\" và đưa ra ví dụ minh họa."
+    },
+    {
+      "category": "Cụm từ kết hợp",
+      "templateString": "Liệt kê các cụm từ kết hợp phổ biến (collocations) với từ \"{{ item }}\" và đặt câu ví dụ cho mỗi cụm."
+    },
+    {
+      "category": "Họ từ",
+      "templateString": "Liệt kê các họ từ (word families) với từ \"{{ item }}\" và đặt câu ví dụ cho mỗi cụm."
+    },
+    {
+      "category": "Lỗi thường gặp",
+      "templateString": "Liệt kê các lỗi thường gặp với từ \"{{ item }}\" và đặt câu ví dụ cho mỗi lỗi."
+    },
+    {
+      "category": "Tình huống sử dụng",
+      "templateString": "Giải thích \"{{ item }}\" được sử dụng trong những tình huống nào. Với mỗi tình huống, hãy cho ví dụ cụ thể."
+    },
+    {
+      "category": "Ngữ cảnh phù hợp",
+      "templateString": "Trong ngữ cảnh nào thì dùng từ \"{{ item }}\" là phù hợp nhất ở cấp độ {{ cefr_level }}? Cho ví dụ thực tế."
+    },
+    {
+      "category": "Văn phong sử dụng",
+      "templateString": "Từ \"{{ item }}\" thường xuất hiện trong văn phong nào (trang trọng, thông thường, học thuật)? Minh họa bằng ví dụ."
+    },
+    {
+      "category": "Tình huống giao tiếp",
+      "templateString": "Hãy mô tả 5 tình huống giao tiếp thực tế mà bạn có thể sử dụng từ \"{{ item }}\"."
+    },
+    {
+      "category": "Bài tập đặt câu",
+      "templateString": "Hãy giúp tôi luyện tập đặt câu với từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}. Bạn đưa ra một câu tiếng Việt, tôi sẽ đưa ra câu tiếng Anh tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy sửa lỗi cho tôi cho đến khi hoàn thiện."
+    },
+    {
+      "category": "Bài tập dịch câu",
+      "templateString": "Hãy giúp tôi luyện tập cách sử dụng từ '{{ item }}' bằng cách luyện dịch câu. Bạn đưa ra một câu tiếng Anh, tôi sẽ đưa ra câu tiếng Việt tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy sửa lỗi cho tôi cho đến khi hoàn thiện. Câu được cho phải phù hợp với người có trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập sửa lỗi",
+      "templateString": "Hãy giúp tôi luyện tập cách sử dụng từ '{{ item }}' bằng cách sửa lỗi của câu đã cho. Bạn đưa ra một câu sai, tôi sẽ chỉ ra lỗi và cách sửa tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy góp ý cho tôi (nếu tôi sai) cho đến khi hoàn thiện. Câu được cho phù hợp với người học tiếng Anh trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập điền từ",
+      "templateString": "Hãy tạo các bài tập điền từ \"{{ item }}\" hoặc dạng thích hợp của nó vào chỗ trống trong câu, phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập ghép đôi",
+      "templateString": "Hãy tạo các bài tập ghép đôi liên quan đến từ \"{{ item }}\" và các từ liên quan khác, phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập sắp xếp từ",
+      "templateString": "Hãy tạo các bài tập sắp xếp từ liên quan đến từ \"{{ item }}\" và các từ liên quan khác, phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập trắc nghiệm",
+      "templateString": "Tạo các câu hỏi trắc nghiệm lý thuyết (về nghĩa, từ loại, cách dùng, từ đồng nghĩa, họ từ, liên từ,...) của từ \"{{ item }}\" với 4 lựa chọn (A, B, C, D) phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập đúng/sai",
+      "templateString": "Tạo các câu hỏi đúng/sai liên quan đến từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập sắp xếp câu",
+      "templateString": "Tạo các bài tập sắp xếp câu liên quan đến từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}."
+    },
+    {
+      "category": "Bài tập biến đổi câu",
+      "templateString": "Tạo các bài tập biến đổi câu liên quan đến từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "promptrecall-sources",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "validate:source": "npx tsx scripts/validate_source_manifest.ts sources/**/*.json",
+    "validate:prompt": "npx tsx scripts/validate_prompt_template.ts prompt-templates/**/*.json",
+    "validate:index": "npx tsx scripts/validate_index.ts index.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.5.2",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}

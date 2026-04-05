@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "English Grammar Prompt Templates",
+  "description": "Prompt templates for English grammar learning and practice",
+  "author": "PromptRecall Team",
+  "locale": "en",
+  "promptTemplates": [
+    {
+      "category": "Explanation",
+      "templateString": "Explain the grammar point '{{ item }}' in simple terms suitable for {{ cefr_level }} level. Provide illustrative examples."
+    },
+    {
+      "category": "Usage",
+      "templateString": "Please explain when and how to use '{{ item }}' appropriately for learners at {{ cefr_level }} level."
+    },
+    {
+      "category": "Common Mistakes",
+      "templateString": "Analyze the grammar structure '{{ item }}' and list common mistakes that learners often make"
+    },
+    {
+      "category": "Comparison",
+      "templateString": "Compare the grammar point '{{ item }}' with other similar structures in English to clarify the differences."
+    },
+    {
+      "category": "Examples",
+      "templateString": "Suggest 3 diverse examples of using '{{ item }}' in everyday communication at {{ cefr_level }} level."
+    },
+    {
+      "category": "Real-life Situations",
+      "templateString": "Provide real-life situations to practice '{{ item }}' for learners at {{ cefr_level }} level."
+    },
+    {
+      "category": "Practice Exercises",
+      "templateString": "Create grammar practice exercises for '{{ item }}' suitable for {{ cefr_level }} level."
+    },
+    {
+      "category": "Multiple Choice Exercises",
+      "templateString": "Create 5 multiple-choice exercises related to '{{ item }}' at {{ cefr_level }} level."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "templateString": "Create 5 fill-in-the-blank exercises related to '{{ item }}' at {{ cefr_level }} level."
+    },
+    {
+      "category": "Matching Exercises",
+      "templateString": "Create 5 matching exercises related to '{{ item }}' at {{ cefr_level }} level."
+    },
+    {
+      "category": "True/False Exercises",
+      "templateString": "Create 5 true/false exercises related to '{{ item }}' at {{ cefr_level }} level."
+    },
+    {
+      "category": "Word Ordering Exercises",
+      "templateString": "Create 5 word ordering exercises related to '{{ item }}' at {{ cefr_level }} level."
+    },
+    {
+      "category": "Sentence Transformation Exercises",
+      "templateString": "Create 5 sentence transformation exercises about '{{ item }}' suitable for English learners at {{ cefr_level }} level."
+    },
+    {
+      "category": "Error Correction Exercises",
+      "templateString": "Help me practice the grammar structure '{{ item }}' by correcting grammatical errors in given sentences. You provide an incorrect sentence, and I will identify the error and the corresponding correction. Don't give the answer immediately, provide feedback (if I'm wrong) until I get it right. The sentence should be suitable for English learners at {{ cefr_level }} level."
+    }
+  ]
+}

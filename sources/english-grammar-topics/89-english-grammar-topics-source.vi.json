@@ -1,0 +1,571 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "89 Chủ Đề Ngữ Pháp Tiếng Anh (CEFR)",
+  "description": "Các chủ đề ngữ pháp tiếng Anh được tổ chức theo cấp độ CEFR (A1-C2). Bao gồm 89 chủ đề ngữ pháp độc nhất.",
+  "author": "PromptRecall Team",
+  "version": "1.0.0",
+  "locale": "vi",
+  "items": [
+    {
+      "label": "Động từ to be (am/is/are)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Đại từ chủ ngữ",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Tính từ sở hữu",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Danh từ số ít và số nhiều",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Mạo từ (a/an/the)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Tính từ cơ bản",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Cấu trúc There is / There are",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Giới từ chỉ vị trí cơ bản (in, on, at)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Thì hiện tại đơn (khẳng định)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Thì hiện tại đơn (phủ định, câu hỏi)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Câu mệnh lệnh",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Động từ khiếm khuyết can (chỉ khả năng)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Liên từ cơ bản (and, but, or)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Sở hữu cách 's",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "This / That / These / Those (đại từ chỉ định)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Thì quá khứ đơn (động từ có quy tắc và bất quy tắc)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Tương lai với going to",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Thì hiện tại tiếp diễn",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "So sánh hiện tại tiếp diễn và hiện tại đơn",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Danh từ đếm được và không đếm được",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Từ chỉ số lượng (some, any, much, many, a lot of)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "So sánh hơn và so sánh nhất",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Trạng từ tần suất",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Giới từ chỉ thời gian (in, on, at)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Cấu trúc have got",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Động từ khiếm khuyết (can, must, should)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Đại từ tân ngữ",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Cụm động từ (phrasal verbs) cơ bản",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Cấu trúc like + V-ing",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Câu hỏi với từ để hỏi (Wh- questions)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Thì hiện tại hoàn thành",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "So sánh hiện tại hoàn thành và quá khứ đơn",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Tương lai với will",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Câu điều kiện loại 1",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Câu điều kiện loại 2",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Danh động từ và động từ nguyên mẫu",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Mệnh đề quan hệ (who, which, that)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Câu bị động (hiện tại đơn và quá khứ đơn)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Động từ khiếm khuyết chỉ nghĩa vụ (have to, must, should)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Động từ khiếm khuyết chỉ khả năng (might, may, could)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Cấu trúc so sánh (as...as, too, enough)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Câu tường thuật (câu trần thuật)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Đại từ phản thân",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Từ nối (because, so, although)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Mạo từ (cách dùng nâng cao cơ bản)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Thì hiện tại hoàn thành tiếp diễn",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Thì quá khứ tiếp diễn",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Thì quá khứ hoàn thành",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "So sánh quá khứ hoàn thành và quá khứ đơn",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Câu điều kiện loại 3",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Câu điều kiện hỗn hợp",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Câu bị động (tất cả các thì)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Cấu trúc sai khiến (have/get something done)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Câu tường thuật (câu hỏi, mệnh lệnh)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Mệnh đề quan hệ (xác định và không xác định)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Mệnh đề phân từ",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Động từ khiếm khuyết nâng cao (suy đoán: must, might, can’t)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Thì tương lai tiếp diễn và tương lai hoàn thành",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Từ chỉ số lượng nâng cao (plenty of, a great deal of, v.v.)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Từ nối nâng cao (however, therefore, v.v.)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Đảo ngữ (rarely, not only, v.v.)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Câu điều kiện nâng cao (đảo ngữ trong điều kiện)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Lược bỏ và thay thế (ellipsis and substitution)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Danh hóa (nominalisation)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Câu chẻ (it-cleft, what-cleft)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Cấu trúc bị động nâng cao",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Mệnh đề phân từ phức tạp",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Động từ khiếm khuyết nâng cao (dạng quá khứ, suy đoán)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Ngôn ngữ giảm nhẹ (hedging: seems, tends to, v.v.)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Mệnh đề quan hệ nâng cao",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Mệnh đề trạng ngữ (tương phản, nhượng bộ, mục đích)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Giới từ (giới từ đi kèm)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Trật tự từ để nhấn mạnh",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Từ nối nâng cao",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Ngữ pháp trang trọng và không trang trọng",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Tất cả các dạng đảo ngữ",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Lược bỏ nâng cao",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Danh hóa phức tạp",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Sắc thái tinh tế của tình thái (modality)",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Cấu trúc ngữ pháp mang tính thành ngữ",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Câu nhiều mệnh đề lồng nhau",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Liên kết diễn ngôn nâng cao",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Kiểm soát văn phong (trang trọng, không trang trọng, học thuật)",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Sử dụng ngữ pháp theo ngữ dụng",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Sự mơ hồ và biến thể phong cách",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Câu điều kiện nâng cao (dạng kết hợp)",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Cách dùng thì tinh tế",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Kỹ thuật nhấn mạnh nâng cao",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Cấu trúc ngữ pháp mang tính tu từ",
+      "tags": [
+        "C2"
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "A1",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "A2",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "B1",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "B2",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "C1",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "C2",
+      "keyParam": "cefr_level"
+    }
+  ],
+  "promptTemplates": []
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "English Vocabulary Prompt Templates for English Learners",
+  "description": "Prompt templates for English vocabulary learning and practice",
+  "author": "PromptRecall Team",
+  "locale": "en",
+  "promptTemplates": [
+    {
+      "category": "Explanation",
+      "templateString": "Explain the meaning and part of speech of the word \"{{ item }}\" appropriate for {{ cefr_level }} level. Provide illustrative examples."
+    },
+    {
+      "category": "Pronunciation",
+      "templateString": "Guide how to pronounce \"{{ item }}\" using International Phonetic Alphabet (IPA) symbols and describe tongue placement, lip position, and stress patterns. Point out common mistakes or difficulties (if any) that speakers often encounter when pronouncing this word."
+    },
+    {
+      "category": "Pronunciation Comparison",
+      "templateString": "Compare the pronunciation of \"{{ item }}\" in American and British accents, and indicate the main differences."
+    },
+    {
+      "category": "Creative Examples",
+      "templateString": "Create 3 creative sentences using \"{{ item }}\" in different contexts (work, family, study)."
+    },
+    {
+      "category": "Examples",
+      "templateString": "Write example sentences for the word \"{{ item }}\" in 3 different forms: affirmative, negative, and interrogative."
+    },
+    {
+      "category": "Synonyms",
+      "templateString": "List synonyms of \"{{ item }}\" appropriate for {{ cefr_level }} level. Compare the differences and clarify when to use each word."
+    },
+    {
+      "category": "Antonyms",
+      "templateString": "Find antonyms of \"{{ item }}\" and provide illustrative examples."
+    },
+    {
+      "category": "Collocations",
+      "templateString": "List common collocations with the word \"{{ item }}\" and create example sentences for each collocation."
+    },
+    {
+      "category": "Word Families",
+      "templateString": "List word families related to \"{{ item }}\" and create example sentences for each."
+    },
+    {
+      "category": "Common Mistakes",
+      "templateString": "List common mistakes with the word \"{{ item }}\" and create example sentences for each mistake."
+    },
+    {
+      "category": "Usage Situations",
+      "templateString": "Explain in which situations \"{{ item }}\" is used. For each situation, provide specific examples."
+    },
+    {
+      "category": "Appropriate Contexts",
+      "templateString": "In what contexts is the word \"{{ item }}\" most appropriate at {{ cefr_level }} level? Provide real-life examples."
+    },
+    {
+      "category": "Register Usage",
+      "templateString": "In what register does the word \"{{ item }}\" typically appear (formal, informal, academic)? Illustrate with examples."
+    },
+    {
+      "category": "Communication Situations",
+      "templateString": "Describe 5 real-life communication situations where you can use the word \"{{ item }}\"."
+    },
+    {
+      "category": "Error Correction Practice",
+      "templateString": "Help me practice using the word '{{ item }}' by correcting errors in given sentences. You provide an incorrect sentence, and I will identify the error and provide the correction. Don't give the answer immediately, provide feedback (if I'm wrong) until I get it right. The sentence should be appropriate for {{ cefr_level }} level English learners."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "templateString": "Create fill-in-the-blank exercises using \"{{ item }}\" or its appropriate form, suitable for {{ cefr_level }} level."
+    },
+    {
+      "category": "Matching Exercise",
+      "templateString": "Create matching exercises related to the word \"{{ item }}\" and other related words, suitable for {{ cefr_level }} level."
+    },
+    {
+      "category": "Word Ordering Exercise",
+      "templateString": "Create word ordering exercises related to the word \"{{ item }}\" and other related words, suitable for {{ cefr_level }} level."
+    },
+    {
+      "category": "Multiple Choice",
+      "templateString": "Create multiple-choice questions about theory (meaning, part of speech, usage, synonyms, word families, conjunctions, etc.) of the word \"{{ item }}\" with 4 options (A, B, C, D) appropriate for {{ cefr_level }} level."
+    },
+    {
+      "category": "True/False Exercise",
+      "templateString": "Create true/false questions related to the word \"{{ item }}\" appropriate for {{ cefr_level }} level."
+    },
+    {
+      "category": "Sentence Ordering Exercise",
+      "templateString": "Create sentence ordering exercises related to the word \"{{ item }}\" appropriate for {{ cefr_level }} level."
+    },
+    {
+      "category": "Sentence Transformation Exercise",
+      "templateString": "Create sentence transformation exercises related to the word \"{{ item }}\" appropriate for {{ cefr_level }} level."
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "version": "1.0.0",
+  "name": "PromptRecall Resources Index",
+  "description": "Comprehensive index of all prompt templates and learning sources.",
+  "promptTemplates": [
+    {
+      "id": "english-vocabulary-en",
+      "name": "English Vocabulary Prompt Templates for English Learners",
+      "description": "Prompt templates for English vocabulary learning and practice",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "en",
+      "category": "English vocabulary",
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/prompt-templates/english-vocabulary/english-vocabulary-prompt-templates.en.json",
+      "examples": [
+        {
+          "category": "Explanation",
+          "templateString": "Explain the meaning and part of speech of the word \"{{ item }}\" appropriate for {{ cefr_level }} level. Provide illustrative examples."
+        },
+        {
+          "category": "Pronunciation",
+          "templateString": "Guide how to pronounce \"{{ item }}\" using International Phonetic Alphabet (IPA) symbols and describe tongue placement, lip position, and stress patterns. Point out common mistakes or difficulties (if any) that speakers often encounter when pronouncing this word."
+        },
+        {
+          "category": "Synonyms",
+          "templateString": "List synonyms of \"{{ item }}\" appropriate for {{ cefr_level }} level. Compare the differences and clarify when to use each word."
+        },
+        {
+          "category": "Collocations",
+          "templateString": "List common collocations with the word \"{{ item }}\" and create example sentences for each collocation."
+        },
+        {
+        "category": "Sentence Transformation Exercise",
+        "templateString": "Create sentence transformation exercises related to the word \"{{ item }}\" appropriate for {{ cefr_level }} level."
+        }
+      ]
+    },
+    {
+      "id": "english-vocabulary-vi",
+      "name": "Mẫu prompt học từ vựng tiếng Anh",
+      "description": "Mẫu prompt cho việc học và luyện tập từ vựng tiếng Anh dành cho người Việt",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "vi",
+      "category": "Từ vựng tiếng Anh",
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/prompt-templates/english-vocabulary/english-vocabulary-prompt-templates.vi.json",
+      "examples": [
+        {
+          "category": "Ngữ nghĩa",
+          "templateString": "Giải thích nghĩa, từ loại của từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}. Cho các ví dụ minh họa."
+        },
+        {
+          "category": "Phát âm",
+          "templateString": "Hướng dẫn cách phát âm \"{{ item }}\" bằng ký hiệu phiên âm quốc tế (IPA) và mô tả cách đặt lưỡi, môi, trọng âm cho người Việt. Chỉ ra những lỗi, khó khăn phổ biến (nếu có) mà người Việt Nam thường gặp khi phát âm từ này."
+        },
+        {
+          "category": "Từ đồng nghĩa",
+          "templateString": "Liệt kê các từ đồng nghĩa của \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}. Hãy so sánh sự khác biệt và nêu rõ khi nào nên dùng từ nào."
+        },
+        {
+          "category": "Cụm từ kết hợp",
+          "templateString": "Liệt kê các cụm từ kết hợp phổ biến (collocations) với từ \"{{ item }}\" và đặt câu ví dụ cho mỗi cụm."
+        },
+        {
+          "category": "Bài tập đặt câu",
+          "templateString": "Hãy giúp tôi luyện tập đặt câu với từ \"{{ item }}\" phù hợp với trình độ {{ cefr_level }}. Bạn đưa ra một câu tiếng Việt, tôi sẽ đưa ra câu tiếng Anh tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy sửa lỗi cho tôi cho đến khi hoàn thiện."
+        }
+      ]
+    },
+    {
+      "id": "vi-to-en-vocabulary",
+      "name": "Mẫu prompt học cách diễn đạt sang tiếng Anh",
+      "description": "Mẫu prompt cho việc học cách diễn đạt từ tiếng Việt sang tiếng Anh",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "vi",
+      "category": "Từ vựng tiếng Anh",
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/prompt-templates/english-vocabulary/from-vi-to-en-vocabulary-prompt-templates.vi.json",
+      "examples": [
+        {
+            "category": "Diễn đạt sang tiếng Anh",
+            "templateString": "Cách diễn đạt từ {{ item }} sang tiếng anh, trong trường hợp nào thì nên dùng từ nào cho phù hợp. Hãy lập bảng so sánh về từ loại, độ phổ biến, ngữ cảnh, sắc thái,..."
+        },
+        {
+            "category": "Bài tập trắc nghiệm",
+            "templateString": "Tạo các câu hỏi trắc nghiệm về cách diễn đạt từ {{ item }} sang tiếng anh cho từng ngữ cảnh, với 4 lựa chọn A, B, C, D."
+        }
+      ]
+    },
+    {
+      "id": "english-grammar-en",
+      "name": "English Grammar Prompt Templates",
+      "description": "Prompt templates for English grammar learning and practice",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "en",
+      "category": "English grammar",
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/prompt-templates/english-grammar/english-grammar-prompt-templates.en.json",
+      "examples": [
+        {
+          "category": "Explanation",
+          "templateString": "Explain the grammar point '{{ item }}' in simple terms suitable for {{ cefr_level }} level. Provide illustrative examples."
+        },
+        {
+          "category": "Usage",
+          "templateString": "Please explain when and how to use '{{ item }}' appropriately for learners at {{ cefr_level }} level."
+        },
+        {
+          "category": "Common Mistakes",
+          "templateString": "Analyze the grammar structure '{{ item }}' and list common mistakes that learners often make"
+        },
+        {
+          "category": "Sentence Transformation Exercises",
+          "templateString": "Create 5 sentence transformation exercises about '{{ item }}' suitable for English learners at {{ cefr_level }} level."
+        },
+        {
+          "category": "Error Correction Exercises",
+          "templateString": "Help me practice the grammar structure '{{ item }}' by correcting grammatical errors in given sentences. You provide an incorrect sentence, and I will identify the error and the corresponding correction. Don't give the answer immediately, provide feedback (if I'm wrong) until I get it right. The sentence should be suitable for English learners at {{ cefr_level }} level."
+        }
+      ]
+    },
+    {
+      "id": "english-grammar-vi",
+      "name": "Mẫu prompt học ngữ pháp tiếng anh",
+      "description": "Mẫu prompt cho việc học và luyện tập ngữ pháp tiếng Anh dành cho người Việt",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "vi",
+      "category": "Ngữ pháp tiếng Anh",
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/prompt-templates/english-grammar/english-grammar-prompt-templates.vi.json",
+      "examples": [
+        {
+          "category": "Giải thích",
+          "templateString": "Giải thích điểm ngữ pháp tiếng anh '{{ item }}' đơn giản phù hợp với trình độ {{ cefr_level }}. Cho ví dụ minh họa."
+        },
+        {
+          "category": "Cách dùng",
+          "templateString": "Hãy giải thích khi nào và cách dùng '{{ item }}' phù hợp với người học cấp độ {{ cefr_level }}."
+        },
+        {
+          "category": "Lỗi sai thường gặp",
+          "templateString": "Phân tích cấu trúc ngữ pháp '{{ item }}' và nêu các lỗi phổ biến mà người học thường mắc phải"
+        },
+        {
+          "category": "Bài tập thực hành",
+          "templateString": "Tạo các bài tập thực hành ngữ pháp '{{ item }}' phù hợp với trình độ {{ cefr_level }}."
+        },
+        {
+          "category": "Bài tập luyện đặt câu",
+          "templateString": "Hãy giúp tôi luyện tập cấu trúc ngữ pháp {{ item }} bằng cách luyện đặt câu. Bạn đưa ra một câu tiếng việt, tôi sẽ đưa ra câu tiếng anh tương ứng. Đừng vội đưa ra đáp án ngay lập tức, hãy sửa lỗi cho tôi cho đến khi hoàn thiện. Câu được cho phải phù hợp với người có trình độ {{ cefr_level }}."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "english-vocabulary-4958",
+      "name": "4958 Essential English Vocabulary Words",
+      "description": "Comprehensive English vocabulary with CEFR levels (A1-C2). Contains 4958 unique words.",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "en",
+      "category": "Dictionaries",
+      "itemCount": 4958,
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/sources/dictionaries/4958-common-english-with-cefr-level-and-pos.en.json",
+      "examples": [
+        {
+          "label": "ability",
+          "tags": ["A2", "noun"]
+        },
+        {
+          "label": "achieve",
+          "tags": ["A2", "verb"]
+        },
+        {
+          "label": "abandon",
+          "tags": ["B2", "verb"]
+        },
+        {
+          "label": "acknowledge",
+          "tags": ["B2", "verb"]
+        },
+        {
+          "label": "abolish",
+          "tags": ["C1", "verb"]
+        }
+      ]
+    },
+    {
+      "id": "vietnamese-vocabulary-3893",
+      "name": "3893 từ vựng tiếng Việt căn bản",
+      "description": "Từ vựng tiếng Việt thông dụng theo khung tham chiếu CEFR (A1-C1). Chứa 3893 từ vựng căn bản.",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "vi",
+      "category": "Từ vựng tiếng Việt",
+      "itemCount": 3893,
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/sources/dictionaries/3893-common-vietnamese-with-cefr-level.vi.json",
+      "examples": [
+        {
+          "label": "xin chào",
+          "tags": ["A1"]
+        },
+        {
+          "label": "cảm ơn",
+          "tags": ["A1"]
+        },
+        {
+          "label": "học tập",
+          "tags": ["A2"]
+        },
+        {
+          "label": "phát triển",
+          "tags": ["B1"]
+        },
+        {
+          "label": "nghiên cứu",
+          "tags": ["B2"]
+        }
+      ]
+    },
+    {
+      "id": "english-grammar-topics-89-en",
+      "name": "89 English Grammar Topics by CEFR Level",
+      "description": "English grammar topics organized by CEFR proficiency levels (A1-C2). Contains 89 unique grammar topics.",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "en",
+      "category": "English grammar topics",
+      "itemCount": 89,
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/sources/english-grammar-topics/89-english-grammar-topics-source.en.json",
+      "examples": [
+        {
+          "label": "Be (am/is/are)",
+          "tags": ["A1"]
+        },
+        {
+          "label": "Present simple (affirmative)",
+          "tags": ["A1"]
+        },
+        {
+          "label": "Past simple (regular and irregular)",
+          "tags": ["A2"]
+        },
+        {
+          "label": "Present perfect",
+          "tags": ["B1"]
+        },
+        {
+          "label": "Passive voice",
+          "tags": ["B2"]
+        }
+      ]
+    },
+    {
+      "id": "english-grammar-topics-89-vi",
+      "name": "89 Chủ Đề Ngữ Pháp Tiếng Anh (CEFR)",
+      "description": "Các chủ đề ngữ pháp tiếng Anh được tổ chức theo cấp độ CEFR (A1-C2). Bao gồm 89 chủ đề ngữ pháp độc nhất.",
+      "author": "PromptRecall Team",
+      "version": "1.0.0",
+      "locale": "vi",
+      "category": "Ngữ pháp tiếng Anh",
+      "itemCount": 89,
+      "importUrl": "https://raw.githubusercontent.com/hieu292/PromptRecall/main/sources/english-grammar-topics/89-english-grammar-topics-source.vi.json",
+      "examples": [
+        {
+          "label": "Động từ to be (am/is/are)",
+          "tags": ["A1"]
+        },
+        {
+          "label": "Thì hiện tại đơn (khẳng định)",
+          "tags": ["A1"]
+        },
+        {
+          "label": "Thì quá khứ đơn (động từ có quy tắc và bất quy tắc)",
+          "tags": ["A2"]
+        },
+        {
+          "label": "Thì hiện tại hoàn thành",
+          "tags": ["B1"]
+        },
+        {
+          "label": "Câu bị động",
+          "tags": ["B2"]
+        }
+      ]
+    }
+  ]
+}

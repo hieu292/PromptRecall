@@ -1,0 +1,571 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "89 English Grammar Topics by CEFR Level",
+  "description": "English grammar topics organized by CEFR proficiency levels (A1-C2). Contains 89 unique grammar topics.",
+  "author": "PromptRecall Team",
+  "version": "1.0.0",
+  "locale": "en",
+  "items": [
+    {
+      "label": "Be (am/is/are)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Subject pronouns",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Possessive adjectives",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Singular and plural nouns",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Articles (a/an/the)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Basic adjectives",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "There is / There are",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Basic prepositions of place (in, on, at)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Present simple (affirmative)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Present simple (negative, questions)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Imperatives",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Can for ability",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Basic conjunctions (and, but, or)",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Possessive 's",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "This / That / These / Those",
+      "tags": [
+        "A1"
+      ]
+    },
+    {
+      "label": "Past simple (regular and irregular)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Future with going to",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Present continuous",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Present continuous vs present simple",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Countable and uncountable nouns",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Quantifiers (some, any, much, many, a lot of)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Comparatives and superlatives",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Adverbs of frequency",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Prepositions of time (in, on, at)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Have got",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Modal verbs (can, must, should)",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Object pronouns",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Basic phrasal verbs",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Like + -ing",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Wh- questions",
+      "tags": [
+        "A2"
+      ]
+    },
+    {
+      "label": "Present perfect (simple)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Present perfect vs past simple",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Future with will",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "First conditional",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Second conditional",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Gerunds and infinitives",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Relative clauses (who, which, that)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Passive voice (present and past simple)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Modals of obligation (have to, must, should)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Modals of possibility (might, may, could)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Comparative structures (as...as, too, enough)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Reported speech (statements)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Reflexive pronouns",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Linking words (because, so, although)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Articles (advanced basic usage)",
+      "tags": [
+        "B1"
+      ]
+    },
+    {
+      "label": "Present perfect continuous",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Past continuous",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Past perfect",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Past perfect vs past simple",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Third conditional",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Mixed conditionals",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Passive voice (all tenses)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Causative (have/get something done)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Reported speech (questions, commands)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Relative clauses (defining and non-defining)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Participle clauses",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Advanced modal verbs (deduction: must, might, can’t)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Future continuous and future perfect",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Quantifiers (plenty of, a great deal of, etc.)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Discourse markers (however, therefore, etc.)",
+      "tags": [
+        "B2"
+      ]
+    },
+    {
+      "label": "Inversion (rarely, not only, etc.)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Advanced conditionals (inverted conditionals)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Ellipsis and substitution",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Nominalisation",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Cleft sentences (it-cleft, what-cleft)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Advanced passive structures",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Complex participle clauses",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Advanced modal verbs (past modals, speculation)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Hedging language (seems, tends to, etc.)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Advanced relative clauses",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Adverbial clauses (contrast, concession, purpose)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Prepositions (dependent prepositions)",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Word order for emphasis",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Advanced discourse markers",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "Formal vs informal grammar",
+      "tags": [
+        "C1"
+      ]
+    },
+    {
+      "label": "All inversion types",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Advanced ellipsis",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Highly complex nominalisation",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Subtle modality distinctions",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Idiomatic grammar structures",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Multiple clause embedding",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Advanced discourse cohesion",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Register control (formal, informal, academic)",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Pragmatic grammar use",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Ambiguity and stylistic variation",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Advanced conditionals (blended forms)",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Nuanced tense usage",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Advanced emphasis techniques",
+      "tags": [
+        "C2"
+      ]
+    },
+    {
+      "label": "Rhetorical grammar structures",
+      "tags": [
+        "C2"
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "A1",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "A2",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "B1",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "B2",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "C1",
+      "keyParam": "cefr_level"
+    },
+    {
+      "name": "C2",
+      "keyParam": "cefr_level"
+    }
+  ],
+  "promptTemplates": []
+}

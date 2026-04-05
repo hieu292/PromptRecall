@@ -1,0 +1,17 @@
+{
+    "schemaVersion": "1.0.0",
+    "name": "Mẫu prompt học cách diễn đạt sang tiếng Anh",
+    "description": "Mẫu prompt cho việc học cách diễn đạt từ tiếng Việt sang tiếng Anh",
+    "author": "PromptRecall Team",
+    "locale": "vi",
+    "promptTemplates": [
+        {
+            "category": "Diễn đạt sang tiếng Anh",
+            "templateString": "Cách diễn đạt từ {{ item }} sang tiếng anh, trong trường hợp nào thì nên dùng từ nào cho phù hợp. Hãy lập bảng so sánh về từ loại, độ phổ biến, ngữ cảnh, sắc thái,..."
+        },
+        {
+            "category": "Bài tập trắc nghiệm",
+            "templateString": "Tạo các câu hỏi trắc nghiệm về cách diễn đạt từ {{ item }} sang tiếng anh cho từng ngữ cảnh, với 4 lựa chọn A, B, C, D."
+        }
+    ]
+}
